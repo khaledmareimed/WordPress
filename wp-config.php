@@ -42,25 +42,25 @@
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'database_name_here' );
+define( 'DB_NAME', 'enuajptifnwl411f' );
 
 
 
 /** Database username */
 
-define( 'DB_USER', 'username_here' );
+define( 'DB_USER', 'fzeptzcxapodbflq' );
 
 
 
 /** Database password */
 
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', 'uiu7si0af57hxgsw' );
 
 
 
 /** Database hostname */
 
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306' );
 
 
 
