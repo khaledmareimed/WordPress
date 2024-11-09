@@ -58,7 +58,7 @@ define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
 define( 'NONCE_SALT',       'put your unique phrase here' );
 
 /**#@-*/
-
+define('CONCATENATE_SCRIPTS', false);
 /**
  * WordPress database table prefix.
  *
