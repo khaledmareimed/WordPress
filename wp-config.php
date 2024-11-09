@@ -118,7 +118,6 @@ define( 'NONCE_SALT',       'put your unique phrase here' );
 
 /**#@-*/
 
-define('CONCATENATE_SCRIPTS', false);
 
 /**
 
@@ -174,7 +173,7 @@ $table_prefix = 'wp_';
 
 define( 'WP_DEBUG', false );
 
-
+define('CONCATENATE_SCRIPTS', false);
 
 /* Add any custom values between this line and the "stop editing" line. */
 
